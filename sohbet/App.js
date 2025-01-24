@@ -16,13 +16,13 @@ import Chat from "./screens/Chat";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBLwNsva83CJ8Jr6AO2UmOxx968Z1kdAE8",
-  authDomain: "sohbet-b8d59.firebaseapp.com",
-  projectId: "sohbet-b8d59",
-  storageBucket: "sohbet-b8d59.appspot.com",
-  messagingSenderId: "719731538761",
-  appId: "1:719731538761:web:c188762247586c0f4cb898",
-  measurementId: "G-T7ZD5R7NZ5"
+  apiKey: "...................",
+  authDomain: "...................",
+  projectId: "...................",
+  storageBucket: "...................",
+  messagingSenderId: "...................",
+  appId: "...................",
+  measurementId: "...................."
 };
 
 firebase.initializeApp(firebaseConfig);
